@@ -1,0 +1,9 @@
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\bin\Debug\TicTacToeV1.exe.config
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\bin\Debug\TicTacToeV1.exe
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\bin\Debug\TicTacToeV1.pdb
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\obj\Debug\TicTacToeV1.csprojResolveAssemblyReference.cache
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\obj\Debug\TicTacToeV1.Properties.Resources.resources
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\obj\Debug\TicTacToeV1.TicTacToe.resources
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\obj\Debug\TicTacToeV1.csproj.GenerateResource.Cache
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\obj\Debug\TicTacToeV1.exe
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 5\TicTacToeV1\TicTacToeV1\obj\Debug\TicTacToeV1.pdb

@@ -1,0 +1,18 @@
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.config
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csprojResolveAssemblyReference.cache
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\obj\Debug\TetrisGame.MainWindow.resources
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.Cache
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+E:\Fox\School dump\CSCD classes\CScD 371\Final Project\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+F:\CScD371\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe.config
+F:\CScD371\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+F:\CScD371\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+F:\CScD371\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+F:\CScD371\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+F:\CScD371\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csprojResolveAssemblyReference.cache
+F:\CScD371\TetrisGame\TetrisGame\obj\Debug\TetrisGame.MainWindow.resources
+F:\CScD371\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+F:\CScD371\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.Cache
