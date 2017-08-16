@@ -1,0 +1,13 @@
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe.config
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\CrapsGame.csprojResolveAssemblyReference.cache
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\MainWindow.baml
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\MainWindow.g.cs
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\App.g.cs
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\CrapsGame_MarkupCompile.cache
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\CrapsGame.g.resources
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\CrapsGame.Properties.Resources.resources
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\CrapsGame.csproj.GenerateResource.Cache
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\bin\Debug\CrapsGame.exe
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\bin\Debug\CrapsGame.pdb
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\CrapsGame.exe
+E:\Fox\School dump\CSCD classes\CScD 371\Assignment 4\CrapsGame\CrapsGame\obj\Debug\CrapsGame.pdb
